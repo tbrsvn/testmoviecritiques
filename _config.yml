@@ -24,7 +24,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "testmoviecritiques/"
+baseurl: "/testmoviecritiques" # the subpath of your site, e.g. /blog
 url: "https://tbrsvn.github.io/" # the base hostname & protocol for your site
 language: "en"
 categories_folder: category
