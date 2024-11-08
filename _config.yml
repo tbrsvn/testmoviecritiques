@@ -1,4 +1,5 @@
 # Site Settings
+remote_theme: thiagorossener/jekflix-template
 title: "Toma's Movie And TV Show Critiques"
 rss-description: "Toma's Movie And TV Show Critiques"
 author: "Toma Brasoveanu"
