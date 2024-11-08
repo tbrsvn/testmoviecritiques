@@ -37,6 +37,7 @@ permalink: /:title/
 collections:
   authors:
     output: true
+paginate: true
 paginate_path: "/page/:num/"
 use_logo: false
 
