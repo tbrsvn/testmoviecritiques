@@ -13,9 +13,9 @@ tags:
 show_hero: true
 menu:
   - title: Home
-    url: /
+    url: "https://tbrsvn.github.io/testmoviecritiques/"
   - title: About
-    url: pages/about
+    url: /pages/about
 # Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
