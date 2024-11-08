@@ -11,7 +11,7 @@ tags:
   - Critique
   - Movie
 author: "tomab"
-paginate: false
+paginate: true
 ---
 
 # Short Summary Of My Critique
