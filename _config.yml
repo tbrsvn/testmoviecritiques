@@ -16,7 +16,7 @@ menu:
   - title: Home
     url: /
   - title: About
-    url: /about
+    url: pages/about
 # Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
