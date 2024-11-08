@@ -13,7 +13,7 @@ tags:
 show_hero: true
 menu:
   - title: Home
-    url: "https://tbrsvn.github.io/testmoviecritiques/"
+    url: "/"
   - title: About
     url: /pages/about
 # Posts Settings
